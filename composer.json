@@ -4,8 +4,8 @@
 	"type": "library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-a8c-mc-stats": "@dev",
-		"automattic/jetpack-options": "@dev"
+		"automattic/jetpack-a8c-mc-stats": "1.4.1",
+		"automattic/jetpack-options": "1.11.2"
 	},
 	"autoload": {
 		"classmap": [
