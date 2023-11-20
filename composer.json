@@ -4,7 +4,8 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.60.2-alpha"
+		"php": ">=7.0",
+		"automattic/jetpack-connection": "^2.0.0-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.0.0-alpha"
@@ -27,7 +28,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-heartbeat/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "1.5.x-dev"
+			"dev-trunk": "2.0.x-dev"
 		}
 	},
 	"abandoned": "automattic/jetpack-connection"
